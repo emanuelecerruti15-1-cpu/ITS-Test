@@ -9,6 +9,9 @@ public class boia {
     System.out.println("Mannaggia a dio");
     System.out.println(merda);
 =======
+  //Shara sei un figlio di negra
+  //Penserò a te mentre mi mangio il mio tacos xl
+  //suca
   public static void main(){
     String crazy;
     Scanner tastiera = new Scanner;
