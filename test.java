@@ -1,11 +1,11 @@
 import java.util.Scanner;
 public class boia {
   public static void main(){
-    String merda;
+    String crazy;
     Scanner tastiera = new Scanner;
     System.out.println("Inserisci una parola");
-    merda = tastiera.nextLine();
-    System.out.println("Mannaggia a dio");
-    Sytem.out.println(merda);
+    crazy = tastiera.nextLine();
+    System.out.println("Tacos");
+    Sytem.out.println(crazy);
   }
 }
